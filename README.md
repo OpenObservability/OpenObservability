@@ -1,3 +1,3 @@
 # OpenObservability
 
-This is the umbrella repository for everything wihin https://github.com/OpenObservability/
+This is the umbrella repository for everything within https://github.com/OpenObservability/
