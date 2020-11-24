@@ -78,9 +78,11 @@ Decisions are usually made by [rough consensus](#consensus). If no consensus can
 
 ### Governance changes
 
+Changes to this document are discussed publicly on the [public mailing list][public].
+
 Changes to this document are made by the project lead.
 
-If no project lead is alive or named, changes to this document are discussed publicly on the [public mailing list][public]. Any change requires a supermajority in favor. Editorial changes may be made by rough consensus unless challenged.
+Editorial changes may be made by rough consensus unless challenged.
 
 ### Other matters
 
