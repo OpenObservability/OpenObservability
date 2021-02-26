@@ -34,7 +34,7 @@ The project lead is voted for every two years by a simple majority vote. If no m
 
 The project lead can declare [rough consensus](#consensus), but voting is still open to override the consensus.
 
-The project lead gets one extra vote in votes other than project lead votes.
+The project lead gets one extra vote in votes, other than project lead votes.
 
 Richard Hartmann ([RichiH](https://github.com/RichiH)) is the project lead until 2023-02.
 
