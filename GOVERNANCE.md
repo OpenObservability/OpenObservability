@@ -16,7 +16,7 @@ This document describes the rules and governance of the project. It is meant to 
 ## Alignment
 
 The OpenObservability project will remain in close alignment with Prometheus, Cortex, and Thanos as long as they exist.
-Changing alignment away from the Prometheus project requires unanimous agreement from all OpenObservability members.
+Changing alignment away from the [Prometheus project](https://github.com/prometheus) requires unanimous agreement from all OpenObservability team members.
 
 ## Values
 
