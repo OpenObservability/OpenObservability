@@ -13,6 +13,11 @@ This document describes the rules and governance of the project. It is meant to 
 
 - **The OpenObservability project**: The sum of all activities performed under this governance, concerning one or more repositories or the community.
 
+## Alignment
+
+The OpenObservability project will remain in close alignment with Prometheus, Cortex, and Thanos as long as they exist.
+Changing alignment away from the [Prometheus project](https://github.com/prometheus) requires unanimous agreement from all OpenObservability team members.
+
 ## Values
 
 The OpenObservability developers and community are expected to follow the values defined in the [Code of Conduct][coc]. Furthermore, the OpenObservability community strives for kindness, giving feedback effectively, and building a welcoming environment. The OpenObservability developers generally decide by consensus and only resort to conflict resolution by a majority vote if consensus cannot be reached.
@@ -25,11 +30,13 @@ Each project must have a [`MAINTAINERS.md`][maintainers] file with at least one 
 
 ### Project lead
 
-The project lead may make decisions which hold weight equal to or higer than a supermajority vote. They may also veto any consensus or vote. While alive, the project lead can not be removed unless they choose to step down themselves.
+The project lead is voted for every two years by a simple majority vote. If no majority can be reached, the current project lead serves until a majority can be reached.
 
-Any decisions, vetos, or overrides under this provision must be clearly marked.
+The project lead can declare [rough consensus](#consensus), but voting is still open to override the consensus.
 
-Richard Hartmann ([RichiH](https://github.com/RichiH)) is the project lead.
+The project lead gets one extra vote in votes, other than project lead votes.
+
+Richard Hartmann ([RichiH](https://github.com/RichiH)) is the project lead until 2023-02.
 
 ### Team members
 
